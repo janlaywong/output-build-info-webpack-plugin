@@ -1,0 +1,26 @@
+{
+  "name": "output-build-info-webpack-plugin",
+  "version": "1.0.0",
+  "description": "输出webpack打包环境信息（例如打包时间，分支，git log等）",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Janlay884181317/output-build-info-webpack-plugin.git"
+  },
+  "keywords": [],
+  "author": "janlay884181317@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Janlay884181317/output-build-info-webpack-plugin/issues"
+  },
+  "files": [
+    "index.js"
+  ],
+  "homepage": "https://github.com/Janlay884181317/output-build-info-webpack-plugin#readme",
+  "dependencies": {
+    "simple-git": "^2.5.0"
+  }
+}
