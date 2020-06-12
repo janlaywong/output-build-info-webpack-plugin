@@ -17,7 +17,7 @@
     "url": "https://github.com/Janlay884181317/output-build-info-webpack-plugin/issues"
   },
   "files": [
-    "index.js"
+    "src/**/*"
   ],
   "homepage": "https://github.com/Janlay884181317/output-build-info-webpack-plugin#readme",
   "dependencies": {

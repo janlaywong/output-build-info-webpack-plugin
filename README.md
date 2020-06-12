@@ -12,7 +12,7 @@
 ### 使用方式
 
 ```console
-$ npm install output-build-info-webpack-plugin --save-dev
+$ npm install output-build-info-webpack-plugin --save
 ```
 
 然后添加到你的`webpack` 配置中
