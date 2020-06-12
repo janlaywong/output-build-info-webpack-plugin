@@ -1,6 +1,6 @@
 {
   "name": "output-build-info-webpack-plugin",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "输出webpack打包环境信息（例如打包时间，分支，git log等）",
   "main": "src/index.js",
   "scripts": {
